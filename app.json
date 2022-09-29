@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "My app",
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "92134e5c-bff7-424b-962d-af0d42ab1b42"
+      }
+    },
+    "android": {
+      "package": "com.faraguti.myapp"
+    }
+  }
+}

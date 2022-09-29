@@ -1,4 +1,9 @@
 {
-  "expoServerPort": 19000,
-  "packagerPort": 19000
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://27-2da.faraguti.stedi-react-native-private.exp.direct",
+  "packagerNgrokUrl": "https://27-2da.faraguti.stedi-react-native-private.exp.direct",
+  "ngrokPid": 1148,
+  "webpackServerPort": null
 }
